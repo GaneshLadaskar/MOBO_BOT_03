@@ -1,0 +1,17 @@
+[0.538s] Invoking command in '/home/rohan87/mobo_bot_ws/build/arrow_key_teleop_drive': PYTHONPATH=/home/rohan87/mobo_bot_ws/build/arrow_key_teleop_drive/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rohan87/mobo_bot_ws/install/arrow_key_teleop_drive/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rohan87/mobo_bot_ws/build/arrow_key_teleop_drive/build --no-deps symlink_data
+[0.733s] running develop
+[0.826s] running egg_info
+[0.827s] writing arrow_key_teleop_drive.egg-info/PKG-INFO
+[0.827s] writing dependency_links to arrow_key_teleop_drive.egg-info/dependency_links.txt
+[0.827s] writing entry points to arrow_key_teleop_drive.egg-info/entry_points.txt
+[0.827s] writing requirements to arrow_key_teleop_drive.egg-info/requires.txt
+[0.827s] writing top-level names to arrow_key_teleop_drive.egg-info/top_level.txt
+[0.829s] reading manifest file 'arrow_key_teleop_drive.egg-info/SOURCES.txt'
+[0.829s] writing manifest file 'arrow_key_teleop_drive.egg-info/SOURCES.txt'
+[0.830s] running build_ext
+[0.830s] Creating /home/rohan87/mobo_bot_ws/install/arrow_key_teleop_drive/lib/python3.10/site-packages/arrow-key-teleop-drive.egg-link (link to .)
+[0.831s] Installing arrow_key_teleop_drive script to /home/rohan87/mobo_bot_ws/install/arrow_key_teleop_drive/lib/arrow_key_teleop_drive
+[0.831s] 
+[0.831s] Installed /home/rohan87/mobo_bot_ws/build/arrow_key_teleop_drive
+[0.831s] running symlink_data
+[0.871s] Invoked command in '/home/rohan87/mobo_bot_ws/build/arrow_key_teleop_drive' returned '0': PYTHONPATH=/home/rohan87/mobo_bot_ws/build/arrow_key_teleop_drive/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rohan87/mobo_bot_ws/install/arrow_key_teleop_drive/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rohan87/mobo_bot_ws/build/arrow_key_teleop_drive/build --no-deps symlink_data

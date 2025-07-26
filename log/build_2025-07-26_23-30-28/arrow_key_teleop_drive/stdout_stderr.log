@@ -1,0 +1,15 @@
+running develop
+running egg_info
+writing arrow_key_teleop_drive.egg-info/PKG-INFO
+writing dependency_links to arrow_key_teleop_drive.egg-info/dependency_links.txt
+writing entry points to arrow_key_teleop_drive.egg-info/entry_points.txt
+writing requirements to arrow_key_teleop_drive.egg-info/requires.txt
+writing top-level names to arrow_key_teleop_drive.egg-info/top_level.txt
+reading manifest file 'arrow_key_teleop_drive.egg-info/SOURCES.txt'
+writing manifest file 'arrow_key_teleop_drive.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/rohan87/mobo_bot_ws/install/arrow_key_teleop_drive/lib/python3.10/site-packages/arrow-key-teleop-drive.egg-link (link to .)
+Installing arrow_key_teleop_drive script to /home/rohan87/mobo_bot_ws/install/arrow_key_teleop_drive/lib/arrow_key_teleop_drive
+
+Installed /home/rohan87/mobo_bot_ws/build/arrow_key_teleop_drive
+running symlink_data

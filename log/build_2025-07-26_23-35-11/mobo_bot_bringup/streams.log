@@ -1,0 +1,42 @@
+[0.167s] Invoking command in '/home/rohan87/mobo_bot_ws/build/mobo_bot_bringup': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/rohan87/mobo_bot_ws/src/mobo_bot/mobo_bot_bringup -DCMAKE_INSTALL_PREFIX=/home/rohan87/mobo_bot_ws/install/mobo_bot_bringup
+[0.175s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.281s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.285s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.336s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.336s] -- Added test 'lint_cmake' to check CMake code style
+[0.336s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.337s] -- Added test 'xmllint' to check XML markup files
+[0.338s] -- Configuring done
+[0.342s] -- Generating done
+[0.342s] -- Build files have been written to: /home/rohan87/mobo_bot_ws/build/mobo_bot_bringup
+[0.345s] Invoked command in '/home/rohan87/mobo_bot_ws/build/mobo_bot_bringup' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/rohan87/mobo_bot_ws/src/mobo_bot/mobo_bot_bringup -DCMAKE_INSTALL_PREFIX=/home/rohan87/mobo_bot_ws/install/mobo_bot_bringup
+[0.346s] Invoking command in '/home/rohan87/mobo_bot_ws/build/mobo_bot_bringup': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/rohan87/mobo_bot_ws/build/mobo_bot_bringup -- -j12 -l12
+[0.379s] Invoked command in '/home/rohan87/mobo_bot_ws/build/mobo_bot_bringup' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/rohan87/mobo_bot_ws/build/mobo_bot_bringup -- -j12 -l12
+[0.381s] Invoking command in '/home/rohan87/mobo_bot_ws/build/mobo_bot_bringup': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/rohan87/mobo_bot_ws/build/mobo_bot_bringup
+[0.388s] -- Install configuration: ""
+[0.388s] -- Execute custom install script
+[0.389s] -- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_bringup/share/mobo_bot_bringup//launch/robot.launch.py
+[0.389s] -- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_bringup/share/mobo_bot_bringup//launch/robot_mapping.launch.py
+[0.389s] -- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_bringup/share/mobo_bot_bringup//launch/robot_mapping_with_navigation.launch.py
+[0.389s] -- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_bringup/share/mobo_bot_bringup//launch/robot_navigation.launch.py
+[0.389s] -- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_bringup/share/mobo_bot_bringup//launch/sim.launch.py
+[0.389s] -- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_bringup/share/mobo_bot_bringup//launch/sim_mapping.launch.py
+[0.389s] -- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_bringup/share/mobo_bot_bringup//launch/sim_mapping_with_navigation.launch.py
+[0.389s] -- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_bringup/share/mobo_bot_bringup//launch/sim_navigation.launch.py
+[0.390s] -- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_bringup/share/mobo_bot_bringup//launch/tf_view.launch.py
+[0.390s] -- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_bringup/share/ament_index/resource_index/package_run_dependencies/mobo_bot_bringup
+[0.390s] -- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_bringup/share/ament_index/resource_index/parent_prefix_path/mobo_bot_bringup
+[0.390s] -- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_bringup/share/mobo_bot_bringup/environment/ament_prefix_path.sh
+[0.390s] -- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_bringup/share/mobo_bot_bringup/environment/ament_prefix_path.dsv
+[0.390s] -- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_bringup/share/mobo_bot_bringup/environment/path.sh
+[0.390s] -- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_bringup/share/mobo_bot_bringup/environment/path.dsv
+[0.391s] -- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_bringup/share/mobo_bot_bringup/local_setup.bash
+[0.391s] -- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_bringup/share/mobo_bot_bringup/local_setup.sh
+[0.391s] -- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_bringup/share/mobo_bot_bringup/local_setup.zsh
+[0.391s] -- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_bringup/share/mobo_bot_bringup/local_setup.dsv
+[0.391s] -- Symlinking: /home/rohan87/mobo_bot_ws/install/mobo_bot_bringup/share/mobo_bot_bringup/package.dsv
+[0.399s] -- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_bringup/share/ament_index/resource_index/packages/mobo_bot_bringup
+[0.399s] -- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_bringup/share/mobo_bot_bringup/cmake/mobo_bot_bringupConfig.cmake
+[0.399s] -- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_bringup/share/mobo_bot_bringup/cmake/mobo_bot_bringupConfig-version.cmake
+[0.400s] -- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_bringup/share/mobo_bot_bringup/package.xml
+[0.420s] Invoked command in '/home/rohan87/mobo_bot_ws/build/mobo_bot_bringup' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/rohan87/mobo_bot_ws/build/mobo_bot_bringup

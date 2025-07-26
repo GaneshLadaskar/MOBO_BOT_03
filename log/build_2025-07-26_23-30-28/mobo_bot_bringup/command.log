@@ -1,0 +1,6 @@
+Invoking command in '/home/rohan87/mobo_bot_ws/build/mobo_bot_bringup': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/rohan87/mobo_bot_ws/src/mobo_bot/mobo_bot_bringup -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/rohan87/mobo_bot_ws/install/mobo_bot_bringup
+Invoked command in '/home/rohan87/mobo_bot_ws/build/mobo_bot_bringup' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/rohan87/mobo_bot_ws/src/mobo_bot/mobo_bot_bringup -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/rohan87/mobo_bot_ws/install/mobo_bot_bringup
+Invoking command in '/home/rohan87/mobo_bot_ws/build/mobo_bot_bringup': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/rohan87/mobo_bot_ws/build/mobo_bot_bringup -- -j12 -l12
+Invoked command in '/home/rohan87/mobo_bot_ws/build/mobo_bot_bringup' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/rohan87/mobo_bot_ws/build/mobo_bot_bringup -- -j12 -l12
+Invoking command in '/home/rohan87/mobo_bot_ws/build/mobo_bot_bringup': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/rohan87/mobo_bot_ws/build/mobo_bot_bringup
+Invoked command in '/home/rohan87/mobo_bot_ws/build/mobo_bot_bringup' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/rohan87/mobo_bot_ws/build/mobo_bot_bringup

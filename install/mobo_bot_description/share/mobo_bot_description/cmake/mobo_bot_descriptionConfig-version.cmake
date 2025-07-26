@@ -1,0 +1,1 @@
+/home/rohan87/mobo_bot_ws/build/mobo_bot_description/ament_cmake_core/mobo_bot_descriptionConfig-version.cmake

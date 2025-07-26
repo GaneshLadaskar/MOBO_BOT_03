@@ -1,0 +1,4 @@
+source;share/mobo_bot_sim/local_setup.bash
+source;share/mobo_bot_sim/local_setup.dsv
+source;share/mobo_bot_sim/local_setup.sh
+source;share/mobo_bot_sim/local_setup.zsh

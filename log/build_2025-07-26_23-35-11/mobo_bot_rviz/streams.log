@@ -1,0 +1,45 @@
+[0.167s] Invoking command in '/home/rohan87/mobo_bot_ws/build/mobo_bot_rviz': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/rohan87/mobo_bot_ws/src/mobo_bot/mobo_bot_rviz -DCMAKE_INSTALL_PREFIX=/home/rohan87/mobo_bot_ws/install/mobo_bot_rviz
+[0.176s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.261s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.269s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.324s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.325s] -- Added test 'lint_cmake' to check CMake code style
+[0.325s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.326s] -- Added test 'xmllint' to check XML markup files
+[0.327s] -- Configuring done
+[0.330s] -- Generating done
+[0.331s] -- Build files have been written to: /home/rohan87/mobo_bot_ws/build/mobo_bot_rviz
+[0.336s] Invoked command in '/home/rohan87/mobo_bot_ws/build/mobo_bot_rviz' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/rohan87/mobo_bot_ws/src/mobo_bot/mobo_bot_rviz -DCMAKE_INSTALL_PREFIX=/home/rohan87/mobo_bot_ws/install/mobo_bot_rviz
+[0.337s] Invoking command in '/home/rohan87/mobo_bot_ws/build/mobo_bot_rviz': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/rohan87/mobo_bot_ws/build/mobo_bot_rviz -- -j12 -l12
+[0.364s] Invoked command in '/home/rohan87/mobo_bot_ws/build/mobo_bot_rviz' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/rohan87/mobo_bot_ws/build/mobo_bot_rviz -- -j12 -l12
+[0.371s] Invoking command in '/home/rohan87/mobo_bot_ws/build/mobo_bot_rviz': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/rohan87/mobo_bot_ws/build/mobo_bot_rviz
+[0.377s] -- Install configuration: ""
+[0.378s] -- Execute custom install script
+[0.378s] -- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_rviz/share/mobo_bot_rviz//config/amcl.rviz
+[0.379s] -- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_rviz/share/mobo_bot_rviz//config/navigation.rviz
+[0.379s] -- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_rviz/share/mobo_bot_rviz//config/robot.rviz
+[0.379s] -- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_rviz/share/mobo_bot_rviz//config/rsp.rviz
+[0.379s] -- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_rviz/share/mobo_bot_rviz//config/sim.rviz
+[0.379s] -- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_rviz/share/mobo_bot_rviz//config/slam_mapping.rviz
+[0.380s] -- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_rviz/share/mobo_bot_rviz//launch/amcl.launch.py
+[0.380s] -- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_rviz/share/mobo_bot_rviz//launch/nav_bringup.launch.py
+[0.380s] -- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_rviz/share/mobo_bot_rviz//launch/robot.launch.py
+[0.380s] -- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_rviz/share/mobo_bot_rviz//launch/rsp.launch.py
+[0.380s] -- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_rviz/share/mobo_bot_rviz//launch/sim.launch.py
+[0.381s] -- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_rviz/share/mobo_bot_rviz//launch/slam_mapping.launch.py
+[0.381s] -- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_rviz/share/ament_index/resource_index/package_run_dependencies/mobo_bot_rviz
+[0.381s] -- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_rviz/share/ament_index/resource_index/parent_prefix_path/mobo_bot_rviz
+[0.381s] -- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_rviz/share/mobo_bot_rviz/environment/ament_prefix_path.sh
+[0.381s] -- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_rviz/share/mobo_bot_rviz/environment/ament_prefix_path.dsv
+[0.382s] -- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_rviz/share/mobo_bot_rviz/environment/path.sh
+[0.382s] -- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_rviz/share/mobo_bot_rviz/environment/path.dsv
+[0.382s] -- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_rviz/share/mobo_bot_rviz/local_setup.bash
+[0.382s] -- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_rviz/share/mobo_bot_rviz/local_setup.sh
+[0.382s] -- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_rviz/share/mobo_bot_rviz/local_setup.zsh
+[0.382s] -- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_rviz/share/mobo_bot_rviz/local_setup.dsv
+[0.382s] -- Symlinking: /home/rohan87/mobo_bot_ws/install/mobo_bot_rviz/share/mobo_bot_rviz/package.dsv
+[0.384s] -- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_rviz/share/ament_index/resource_index/packages/mobo_bot_rviz
+[0.385s] -- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_rviz/share/mobo_bot_rviz/cmake/mobo_bot_rvizConfig.cmake
+[0.385s] -- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_rviz/share/mobo_bot_rviz/cmake/mobo_bot_rvizConfig-version.cmake
+[0.385s] -- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_rviz/share/mobo_bot_rviz/package.xml
+[0.387s] Invoked command in '/home/rohan87/mobo_bot_ws/build/mobo_bot_rviz' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/rohan87/mobo_bot_ws/build/mobo_bot_rviz

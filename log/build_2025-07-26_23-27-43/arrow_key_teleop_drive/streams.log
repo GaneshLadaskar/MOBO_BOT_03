@@ -1,0 +1,24 @@
+[0.418s] Invoking command in '/home/rohan87/mobo_bot_ws/build/arrow_key_teleop_drive': PYTHONPATH=/home/rohan87/mobo_bot_ws/build/arrow_key_teleop_drive/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rohan87/mobo_bot_ws/install/arrow_key_teleop_drive/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rohan87/mobo_bot_ws/build/arrow_key_teleop_drive/build --no-deps symlink_data
+[0.562s] running develop
+[0.634s] running egg_info
+[0.634s] creating arrow_key_teleop_drive.egg-info
+[0.634s] writing arrow_key_teleop_drive.egg-info/PKG-INFO
+[0.634s] writing dependency_links to arrow_key_teleop_drive.egg-info/dependency_links.txt
+[0.635s] writing entry points to arrow_key_teleop_drive.egg-info/entry_points.txt
+[0.635s] writing requirements to arrow_key_teleop_drive.egg-info/requires.txt
+[0.635s] writing top-level names to arrow_key_teleop_drive.egg-info/top_level.txt
+[0.635s] writing manifest file 'arrow_key_teleop_drive.egg-info/SOURCES.txt'
+[0.636s] reading manifest file 'arrow_key_teleop_drive.egg-info/SOURCES.txt'
+[0.636s] writing manifest file 'arrow_key_teleop_drive.egg-info/SOURCES.txt'
+[0.636s] running build_ext
+[0.637s] Creating /home/rohan87/mobo_bot_ws/install/arrow_key_teleop_drive/lib/python3.10/site-packages/arrow-key-teleop-drive.egg-link (link to .)
+[0.637s] Installing arrow_key_teleop_drive script to /home/rohan87/mobo_bot_ws/install/arrow_key_teleop_drive/lib/arrow_key_teleop_drive
+[0.637s] 
+[0.637s] Installed /home/rohan87/mobo_bot_ws/build/arrow_key_teleop_drive
+[0.637s] running symlink_data
+[0.637s] creating /home/rohan87/mobo_bot_ws/install/arrow_key_teleop_drive/share/ament_index
+[0.637s] creating /home/rohan87/mobo_bot_ws/install/arrow_key_teleop_drive/share/ament_index/resource_index
+[0.637s] creating /home/rohan87/mobo_bot_ws/install/arrow_key_teleop_drive/share/ament_index/resource_index/packages
+[0.637s] symbolically linking /home/rohan87/mobo_bot_ws/build/arrow_key_teleop_drive/resource/arrow_key_teleop_drive -> /home/rohan87/mobo_bot_ws/install/arrow_key_teleop_drive/share/ament_index/resource_index/packages
+[0.637s] symbolically linking /home/rohan87/mobo_bot_ws/build/arrow_key_teleop_drive/package.xml -> /home/rohan87/mobo_bot_ws/install/arrow_key_teleop_drive/share/arrow_key_teleop_drive
+[0.657s] Invoked command in '/home/rohan87/mobo_bot_ws/build/arrow_key_teleop_drive' returned '0': PYTHONPATH=/home/rohan87/mobo_bot_ws/build/arrow_key_teleop_drive/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rohan87/mobo_bot_ws/install/arrow_key_teleop_drive/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/rohan87/mobo_bot_ws/build/arrow_key_teleop_drive/build --no-deps symlink_data

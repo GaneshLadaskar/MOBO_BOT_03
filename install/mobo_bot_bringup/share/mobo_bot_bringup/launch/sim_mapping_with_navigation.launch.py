@@ -1,0 +1,1 @@
+/home/rohan87/mobo_bot_ws/src/mobo_bot/mobo_bot_bringup/launch/sim_mapping_with_navigation.launch.py

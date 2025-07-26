@@ -1,0 +1,75 @@
+[0.162s] Invoking command in '/home/rohan87/mobo_bot_ws/build/mobo_bot_base': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/rohan87/mobo_bot_ws/src/mobo_bot/mobo_bot_base -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/rohan87/mobo_bot_ws/install/mobo_bot_base
+[0.235s] -- The C compiler identification is GNU 11.4.0
+[0.309s] -- The CXX compiler identification is GNU 11.4.0
+[0.318s] -- Detecting C compiler ABI info
+[0.370s] -- Detecting C compiler ABI info - done
+[0.375s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.377s] -- Detecting C compile features
+[0.377s] -- Detecting C compile features - done
+[0.380s] -- Detecting CXX compiler ABI info
+[0.438s] -- Detecting CXX compiler ABI info - done
+[0.446s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.446s] -- Detecting CXX compile features
+[0.447s] -- Detecting CXX compile features - done
+[0.452s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.604s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.671s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.700s] -- Found rclcpp: 16.0.14 (/opt/ros/humble/share/rclcpp/cmake)
+[0.741s] -- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.745s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.753s] -- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.767s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.781s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.828s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.831s] -- Found rmw_cyclonedds_cpp: 1.3.4 (/opt/ros/humble/share/rmw_cyclonedds_cpp/cmake)
+[0.855s] -- Using RMW implementation 'rmw_cyclonedds_cpp' as default
+[0.868s] -- Looking for pthread.h
+[0.922s] -- Looking for pthread.h - found
+[0.922s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[0.979s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[0.980s] -- Found Threads: TRUE  
+[1.013s] -- Found sensor_msgs: 4.9.0 (/opt/ros/humble/share/sensor_msgs/cmake)
+[1.033s] -- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.078s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.078s] -- Configured cppcheck include dirs: 
+[1.078s] -- Configured cppcheck exclude dirs and/or files: 
+[1.078s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.079s] -- Added test 'lint_cmake' to check CMake code style
+[1.079s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.079s] -- Added test 'uncrustify' to check C / C++ code style
+[1.079s] -- Configured uncrustify additional arguments: 
+[1.079s] -- Added test 'xmllint' to check XML markup files
+[1.080s] -- Configuring done
+[1.085s] -- Generating done
+[1.087s] -- Build files have been written to: /home/rohan87/mobo_bot_ws/build/mobo_bot_base
+[1.092s] Invoked command in '/home/rohan87/mobo_bot_ws/build/mobo_bot_base' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/rohan87/mobo_bot_ws/src/mobo_bot/mobo_bot_base -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/rohan87/mobo_bot_ws/install/mobo_bot_base
+[1.093s] Invoking command in '/home/rohan87/mobo_bot_ws/build/mobo_bot_base': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/rohan87/mobo_bot_ws/build/mobo_bot_base -- -j12 -l12
+[1.134s] [ 50%] [32mBuilding CXX object CMakeFiles/lidar_angle_filter.dir/src/lidar_angle_filter.cpp.o[0m
+[5.877s] [100%] [32m[1mLinking CXX executable lidar_angle_filter[0m
+[6.125s] [100%] Built target lidar_angle_filter
+[6.133s] Invoked command in '/home/rohan87/mobo_bot_ws/build/mobo_bot_base' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/rohan87/mobo_bot_ws/build/mobo_bot_base -- -j12 -l12
+[6.135s] Invoking command in '/home/rohan87/mobo_bot_ws/build/mobo_bot_base': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/rohan87/mobo_bot_ws/build/mobo_bot_base
+[6.139s] -- Install configuration: ""
+[6.139s] -- Execute custom install script
+[6.139s] -- Symlinking: /home/rohan87/mobo_bot_ws/install/mobo_bot_base/lib/mobo_bot_base/lidar_angle_filter
+[6.146s] -- Symlinking: /home/rohan87/mobo_bot_ws/install/mobo_bot_base/share/mobo_bot_base//config/eimu_ros_start_params.yaml
+[6.151s] -- Symlinking: /home/rohan87/mobo_bot_ws/install/mobo_bot_base/share/mobo_bot_base//config/ekf.yaml
+[6.156s] -- Symlinking: /home/rohan87/mobo_bot_ws/install/mobo_bot_base/share/mobo_bot_base//config/epmc_diff_drive_controller.yaml
+[6.163s] -- Symlinking: /home/rohan87/mobo_bot_ws/install/mobo_bot_base/share/mobo_bot_base//launch/lidar_test.launch.py
+[6.168s] -- Symlinking: /home/rohan87/mobo_bot_ws/install/mobo_bot_base/share/mobo_bot_base//launch/robot.launch.py
+[6.173s] -- Symlinking: /home/rohan87/mobo_bot_ws/install/mobo_bot_base/share/ament_index/resource_index/package_run_dependencies/mobo_bot_base
+[6.180s] -- Symlinking: /home/rohan87/mobo_bot_ws/install/mobo_bot_base/share/ament_index/resource_index/parent_prefix_path/mobo_bot_base
+[6.186s] -- Symlinking: /home/rohan87/mobo_bot_ws/install/mobo_bot_base/share/mobo_bot_base/environment/ament_prefix_path.sh
+[6.193s] -- Symlinking: /home/rohan87/mobo_bot_ws/install/mobo_bot_base/share/mobo_bot_base/environment/ament_prefix_path.dsv
+[6.198s] -- Symlinking: /home/rohan87/mobo_bot_ws/install/mobo_bot_base/share/mobo_bot_base/environment/path.sh
+[6.204s] -- Symlinking: /home/rohan87/mobo_bot_ws/install/mobo_bot_base/share/mobo_bot_base/environment/path.dsv
+[6.209s] -- Symlinking: /home/rohan87/mobo_bot_ws/install/mobo_bot_base/share/mobo_bot_base/local_setup.bash
+[6.215s] -- Symlinking: /home/rohan87/mobo_bot_ws/install/mobo_bot_base/share/mobo_bot_base/local_setup.sh
+[6.220s] -- Symlinking: /home/rohan87/mobo_bot_ws/install/mobo_bot_base/share/mobo_bot_base/local_setup.zsh
+[6.226s] -- Symlinking: /home/rohan87/mobo_bot_ws/install/mobo_bot_base/share/mobo_bot_base/local_setup.dsv
+[6.232s] -- Symlinking: /home/rohan87/mobo_bot_ws/install/mobo_bot_base/share/mobo_bot_base/package.dsv
+[6.237s] -- Symlinking: /home/rohan87/mobo_bot_ws/install/mobo_bot_base/share/ament_index/resource_index/packages/mobo_bot_base
+[6.244s] -- Symlinking: /home/rohan87/mobo_bot_ws/install/mobo_bot_base/share/mobo_bot_base/cmake/mobo_bot_baseConfig.cmake
+[6.249s] -- Symlinking: /home/rohan87/mobo_bot_ws/install/mobo_bot_base/share/mobo_bot_base/cmake/mobo_bot_baseConfig-version.cmake
+[6.254s] -- Symlinking: /home/rohan87/mobo_bot_ws/install/mobo_bot_base/share/mobo_bot_base/package.xml
+[6.262s] Invoked command in '/home/rohan87/mobo_bot_ws/build/mobo_bot_base' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/rohan87/mobo_bot_ws/build/mobo_bot_base

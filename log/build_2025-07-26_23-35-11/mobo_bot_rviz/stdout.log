@@ -1,0 +1,39 @@
+-- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/rohan87/mobo_bot_ws/build/mobo_bot_rviz
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_rviz/share/mobo_bot_rviz//config/amcl.rviz
+-- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_rviz/share/mobo_bot_rviz//config/navigation.rviz
+-- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_rviz/share/mobo_bot_rviz//config/robot.rviz
+-- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_rviz/share/mobo_bot_rviz//config/rsp.rviz
+-- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_rviz/share/mobo_bot_rviz//config/sim.rviz
+-- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_rviz/share/mobo_bot_rviz//config/slam_mapping.rviz
+-- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_rviz/share/mobo_bot_rviz//launch/amcl.launch.py
+-- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_rviz/share/mobo_bot_rviz//launch/nav_bringup.launch.py
+-- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_rviz/share/mobo_bot_rviz//launch/robot.launch.py
+-- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_rviz/share/mobo_bot_rviz//launch/rsp.launch.py
+-- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_rviz/share/mobo_bot_rviz//launch/sim.launch.py
+-- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_rviz/share/mobo_bot_rviz//launch/slam_mapping.launch.py
+-- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_rviz/share/ament_index/resource_index/package_run_dependencies/mobo_bot_rviz
+-- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_rviz/share/ament_index/resource_index/parent_prefix_path/mobo_bot_rviz
+-- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_rviz/share/mobo_bot_rviz/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_rviz/share/mobo_bot_rviz/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_rviz/share/mobo_bot_rviz/environment/path.sh
+-- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_rviz/share/mobo_bot_rviz/environment/path.dsv
+-- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_rviz/share/mobo_bot_rviz/local_setup.bash
+-- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_rviz/share/mobo_bot_rviz/local_setup.sh
+-- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_rviz/share/mobo_bot_rviz/local_setup.zsh
+-- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_rviz/share/mobo_bot_rviz/local_setup.dsv
+-- Symlinking: /home/rohan87/mobo_bot_ws/install/mobo_bot_rviz/share/mobo_bot_rviz/package.dsv
+-- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_rviz/share/ament_index/resource_index/packages/mobo_bot_rviz
+-- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_rviz/share/mobo_bot_rviz/cmake/mobo_bot_rvizConfig.cmake
+-- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_rviz/share/mobo_bot_rviz/cmake/mobo_bot_rvizConfig-version.cmake
+-- Up-to-date symlink: /home/rohan87/mobo_bot_ws/install/mobo_bot_rviz/share/mobo_bot_rviz/package.xml

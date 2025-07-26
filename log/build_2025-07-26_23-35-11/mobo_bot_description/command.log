@@ -1,0 +1,6 @@
+Invoking command in '/home/rohan87/mobo_bot_ws/build/mobo_bot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/rohan87/mobo_bot_ws/src/mobo_bot/mobo_bot_description -DCMAKE_INSTALL_PREFIX=/home/rohan87/mobo_bot_ws/install/mobo_bot_description
+Invoked command in '/home/rohan87/mobo_bot_ws/build/mobo_bot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/rohan87/mobo_bot_ws/src/mobo_bot/mobo_bot_description -DCMAKE_INSTALL_PREFIX=/home/rohan87/mobo_bot_ws/install/mobo_bot_description
+Invoking command in '/home/rohan87/mobo_bot_ws/build/mobo_bot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/rohan87/mobo_bot_ws/build/mobo_bot_description -- -j12 -l12
+Invoked command in '/home/rohan87/mobo_bot_ws/build/mobo_bot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/rohan87/mobo_bot_ws/build/mobo_bot_description -- -j12 -l12
+Invoking command in '/home/rohan87/mobo_bot_ws/build/mobo_bot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/rohan87/mobo_bot_ws/build/mobo_bot_description
+Invoked command in '/home/rohan87/mobo_bot_ws/build/mobo_bot_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/rohan87/mobo_bot_ws/build/mobo_bot_description
