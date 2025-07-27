@@ -1,7 +1,6 @@
 # 🤖 MOBO_BOT_03
 
 MOBO_BOT_03 is a modular ROS 2 (Humble) based mobile robot designed for simulation and real-world deployment. This repository includes launch files, robot description (URDF/Xacro), navigation stack setup, and teleoperation tools.
-
 ---
 
 ## 🗂️ Project Structure
